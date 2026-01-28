@@ -1,0 +1,11 @@
+set SERVER=E:\Program Files\llama.cpp\build\bin\Release\llama-server.exe
+set PORT=8080
+set MODEL_PATH=G:\huggingface\Qwen2.5-VL-7B-Instruct-GGUF\Qwen2.5-VL-7B-Instruct-f16.gguf
+set MMPROJ_PATH=G:\huggingface\Qwen2.5-VL-7B-Instruct-GGUF\Qwen2.5-VL-7B-Instruct-mmproj-bf16.gguf
+set gpu-layers=-1
+set keep=128
+set ctx-size=32768
+set temperature=0.1
+set top-k=4
+set top-p=0.8
+set repeat-penalty=1.1

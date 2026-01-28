@@ -1,0 +1,16 @@
+Requests
+torch>2
+transformers==4.49.0
+numpy>=2.2.0
+llama_index==0.12.37
+llama-index-embeddings-huggingface
+Pillow
+PyYAML
+rasterio
+tqdm
+psutil
+WMI
+pynvml
+docx2txt
+qwen_vl_utils
+accelerate

@@ -1,0 +1,12 @@
+{
+  "crop_type": "Apple",
+  "growth_stage": "Fruit development stage",
+  "observed_part": "Leaves and fruits",
+  "environment": {
+    "temperature": "22-28°C",
+    "humidity": "Moderate to high",
+    "weather": "Warm and humid"
+  },
+  "symptom_description": "Small brown spots appear on the leaves and fruits, sometimes with yellow halos. Spots may coalesce, causing leaf blight and fruit blemishes.",
+  "suspected_disease": "Apple Brown Spot"
+}

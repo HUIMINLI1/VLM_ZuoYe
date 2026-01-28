@@ -1,0 +1,9 @@
+/.iaCache
+/.vscode
+/__pycache__
+/utils/__pycache__
+/VLM/__pycache__
+/solutions/__pycache__
+/retrieval/__pycache__
+/database/*
+~testing.py
